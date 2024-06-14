@@ -36,7 +36,7 @@ Visuals:
 
 7. Paste the key then press Check Key
 
-![Step 7](https://github.com/Disvenine/Bacon-Hub-Key-Step-By-Step/assets/142717516/de295ee5-dad7-4607-ad1a-f64a9f4add19)
+![Step 7](https://github.com/Disvenine/Bacon-Hub-Key-Step-By-Step/assets/142717516/877a5b11-0684-45f5-a414-f33d5f138d2d)
 
 8. Congrats you did the keysystem
 
